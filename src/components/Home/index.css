@@ -1,0 +1,12 @@
+.courses-list {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  list-style-type: none;
+}
+
+.heading {
+  margin-left: 45px;
+  margin-bottom: 30px;
+}

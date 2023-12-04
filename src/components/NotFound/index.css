@@ -1,0 +1,12 @@
+.not-found {
+  height: 650px;
+  background-size: cover;
+}
+
+.not-found-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}

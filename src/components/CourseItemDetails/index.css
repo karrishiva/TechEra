@@ -1,0 +1,28 @@
+.course-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-top: 150px;
+  box-shadow: 5px 5px 5px 5px #e8e8e8;
+  height: 440px;
+  width: 1050px;
+  padding: 20px;
+}
+
+.main-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.image {
+  height: 350px;
+}
+
+.description {
+  width: 450px;
+}
+
+.right-content {
+  margin-left: 50px;
+}
